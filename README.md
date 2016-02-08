@@ -1,4 +1,4 @@
 # adi69.github.io
-My Personal Webpage
+My Resume
 
 # OUTDATED. UNDER RENOVATION. 
